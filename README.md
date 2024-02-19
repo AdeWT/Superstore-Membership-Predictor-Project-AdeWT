@@ -1,3 +1,6 @@
+![image](https://github.com/AdeWT/Superstore-Membership-Predictor-Project-AdeWT/assets/150229255/2f4debfd-e3e0-42d7-8c97-0e9963bcd97a)
+
+
 # Superstore Membership Predictor Project
 Classification machine learning project of predicting whether a superstore customer will buy a membership or not
 
