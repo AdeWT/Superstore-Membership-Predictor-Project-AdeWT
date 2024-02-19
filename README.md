@@ -1,4 +1,5 @@
-![image](https://github.com/AdeWT/Superstore-Membership-Predictor-Project-AdeWT/assets/150229255/2f4debfd-e3e0-42d7-8c97-0e9963bcd97a)
+![image](https://github.com/AdeWT/Superstore-Membership-Predictor-Project-AdeWT/assets/150229255/4f500588-8c9b-4560-ac86-f701efc3fd44)
+
 
 
 # Superstore Membership Predictor Project
