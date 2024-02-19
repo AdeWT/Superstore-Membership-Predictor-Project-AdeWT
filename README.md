@@ -6,6 +6,7 @@ Classification machine learning project of predicting whether a superstore custo
 The author is a data scientist working in a research firm, doing a custom machine learning project for a superstore client.
 
 The client is planning to distribute membership discount offer to customers by phone calls, and want to focus their effort on customers more likely to accept the offer. Data of last year's similar campaign is then given to the author for machine learning creation to predict whether a customer will or will not buy a membership based on several factors.
+
 ---
 
 # Data Exploration
